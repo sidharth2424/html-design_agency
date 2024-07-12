@@ -6,6 +6,9 @@ Preview
 Description
 The website showcases a creative design agency with sections highlighting services like beauty and construction. It utilizes HTML and CSS, along with the Poppins font from Google Fonts.
 
+![Website Preview](res.png)
+
+
 Features
 Responsive design using media queries for mobile devices.
 Sections for beauty and construction services with descriptive text and images.
